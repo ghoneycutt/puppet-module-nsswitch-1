@@ -7,4 +7,4 @@ summary 'module to manage nsswitch.conf'
 description 'Provides the means to manage nsswitch.conf on Linux and Solaris.'
 project_page 'https://github.com/gusson/puppet-module-nsswitch'
 
-dependency 'puppetlabs/stdlib', '>= 3.2.x'
+dependency 'puppetlabs/stdlib', '>= 3.2.0'
